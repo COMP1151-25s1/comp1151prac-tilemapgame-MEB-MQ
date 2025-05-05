@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "draft.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TileSheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "draft.tmx": {
+            "scale": 1.02125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 240.39167686658507,
+                "y": 160.09791921664626
+            }
+        },
+        "tilemap.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        }
+    },
+    "last.imagePath": "C:/Users/maddy/OneDrive/Desktop/COMP1151 Tutoring/comp1151prac-tilemapgame-MEB-MQ/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "tilemap.tsx",
+        "draft.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "tilemap.tsx",
+        "draft.tmx",
+        "TileSheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
