@@ -13,11 +13,11 @@
             "scaleInEditor": 1
         },
         "draft.tmx": {
-            "scale": 1.02125,
+            "scale": 8,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 240.39167686658507,
-                "y": 160.09791921664626
+                "x": 278.4375,
+                "y": 159.6875
             }
         },
         "tilemap.tsx": {
