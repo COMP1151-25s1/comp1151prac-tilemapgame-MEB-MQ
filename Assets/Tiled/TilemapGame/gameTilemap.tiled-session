@@ -13,19 +13,20 @@
             "scaleInEditor": 1
         },
         "draft.tmx": {
-            "scale": 8,
+            "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 278.4375,
-                "y": 159.6875
+                "x": 276.99999999999994,
+                "y": 205.33333333333334
             }
         },
         "tilemap.tsx": {
-            "scaleInDock": 3,
+            "scaleInDock": 2,
             "scaleInEditor": 4
         }
     },
     "last.imagePath": "C:/Users/maddy/OneDrive/Desktop/COMP1151 Tutoring/comp1151prac-tilemapgame-MEB-MQ/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
