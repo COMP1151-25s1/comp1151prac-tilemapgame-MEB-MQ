@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "bouncyWall.tmx",
+    "activeFile": "player Room.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -42,10 +42,10 @@
         },
         "player Room.tmx": {
             "scale": 4,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 128.125,
-                "y": 128.125
+                "x": 43,
+                "y": 47.375
             }
         },
         "tilemap.tsx": {
@@ -68,8 +68,8 @@
     "recentFiles": [
         "Tilesheet.tsx",
         "castleMap.tmx",
-        "player Room.tmx",
         "bouncyWall.tmx",
+        "player Room.tmx",
         "tilemap.tsx",
         "draft.tmx",
         "TileSheet.tsx"
