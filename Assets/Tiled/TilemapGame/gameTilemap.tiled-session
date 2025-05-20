@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "draft.tmx",
+    "activeFile": "bouncyWall.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -16,12 +16,20 @@
             "scaleInDock": 1.5,
             "scaleInEditor": 4
         },
+        "bouncyWall.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 74.75,
+                "y": 51.75
+            }
+        },
         "castleMap.tmx": {
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 26.75,
-                "y": 66.75
+                "x": 15.75,
+                "y": -0.25
             }
         },
         "draft.tmx": {
@@ -36,8 +44,8 @@
             "scale": 4,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 43.125,
-                "y": 45.375
+                "x": 128.125,
+                "y": 128.125
             }
         },
         "tilemap.tsx": {
@@ -52,12 +60,16 @@
     "map.tileWidth": 16,
     "openFiles": [
         "Tilesheet.tsx",
-        "castleMap.tmx"
+        "castleMap.tmx",
+        "player Room.tmx",
+        "bouncyWall.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
-        "castleMap.tmx",
         "Tilesheet.tsx",
+        "castleMap.tmx",
+        "player Room.tmx",
+        "bouncyWall.tmx",
         "tilemap.tsx",
         "draft.tmx",
         "TileSheet.tsx"
